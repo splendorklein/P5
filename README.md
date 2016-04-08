@@ -23,3 +23,4 @@
         CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>
 """
+# third party resource: https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
